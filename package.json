@@ -2,23 +2,8 @@
     "_from": "@vitruvedz/3DCore-lib",
     "_id": "@vitruvedz/3DCore-lib@0.17.9",
     "_inBundle": false,
-    "_integrity": "sha512-P8bnkpW0jguST9g26lzhOH6jNnHkfYkBYXRJtcYv3V8xAof0eH0MX8omOltzbu4n7DbHRKC4IDxxCS0PUQXqIg==",
     "_location": "/vitruvedz/3DCore-lib",
     "_phantomChildren": {},
-    "_requested": {
-        "type": "tag",
-        "registry": true,
-        "raw": "@vitruvedz/3DCore-lib",
-        "name": "@vitruvedz/3DCore-lib",
-        "scope": "@vitruvedz",
-        "rawSpec": "",
-        "saveSpec": null,
-        "fetchSpec": "latest"
-    },
-    "_requiredBy": [
-        "#USER",
-        "/"
-    ],
     "author": {
         "name": "3DCoin Core Group, Inc.",
         "email": "contact@districts.io"
