@@ -1,5 +1,5 @@
 {
-    "_from": "@vitruvedz/3DCore-lib",
+    "_from": "3DCore-lib",
     "_id": "@vitruvedz/3DCore-lib@0.17.9",
     "_inBundle": false,
     "_location": "/vitruvedz/3DCore-lib",
@@ -52,7 +52,10 @@
     "homepage": "https://github.com/vitruvedz/3DCore-lib",
     "keywords": [
         "3dcoin",
+        "block",
+        "rawblock",
         "transaction",
+        "rawtransaction",
         "address",
         "p2p",
         "ecies",
@@ -70,7 +73,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "name": "@vitruvedz/3DCore-lib",
+    "name": "3DCore-lib",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/vitruvedz/3DCore-lib.git"
